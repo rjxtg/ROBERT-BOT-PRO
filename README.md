@@ -1,3 +1,5 @@
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=robert-bot-pro&repository=rjxtg%2FROBERT-BOT-PRO&branch=main&instance_type=free&regions=was)
+
 <p align="center">
   <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
 </p>
